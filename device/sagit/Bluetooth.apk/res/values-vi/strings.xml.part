@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="upload_fail_waiting">Đang thực hiện chuẩn bị gửi tập tin, tự động truyền lại sau</string>
+</resources>

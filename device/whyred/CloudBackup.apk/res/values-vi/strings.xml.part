@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="error_num_placeholder">--</string>
+  <string name="loading_progress_num">(%s%%)</string>
+  <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+  <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
+  <string name="restore_finish_description">Khôi phục xong</string>
+  <string name="restore_init_description">Bắt đầu khôi phục</string>
+  <string name="restoring_file_title_no_progress">Khôi phục các tập tin…</string>
+  <string name="restoring_settings">Khôi phục cài đặt…</string>
+</resources>

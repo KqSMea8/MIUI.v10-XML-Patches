@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="process_kernel_label">Hệ điều hành Android</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="v7_preference_off">TẮT</string>
+    <string name="v7_preference_on">MỞ</string>
+    <string name="wifi_auth_password_wrong">Mật khẩu có thể không chính xác</string>
+    <string name="wifi_wapi_certification_dont_exist">Chứng chỉ WAPI không tồn tại. Xin hãy cài đặt chúng.</string>
+    <string name="preferred_network_mode_cdma_wo_evdo_choice">CDMA không có EvDo</string>
+    <string name="preferred_network_mode_evdo_only_choice">Chỉ EvDo</string>
+    <string name="preferred_network_mode_global_choice">Toàn cầu</string>
+    <string name="preferred_network_mode_gsm_only_choice">Chỉ GSM</string>
+    <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA tự động</string>
+    <string name="preferred_network_mode_gsm_wcdma_lte_choice">GSM/WCDMA/LTE</string>
+    <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA được ưa thích</string>
+    <string name="preferred_network_mode_lte_choice">LTE</string>
+    <string name="preferred_network_mode_lte_wcdma_choice">LTE / WCDMA</string>
+    <string name="preferred_network_mode_td_scdma_only_choice">Chỉ TD-SCDMA</string>
+    <string name="preferred_network_mode_wcdma_only_choice">Chỉ WCDMA</string>
+</resources>

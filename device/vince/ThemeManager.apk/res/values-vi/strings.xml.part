@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="ad_begin_to_download_tip">Bắt đầu tải về…</string>
+  <string name="ad_closed_tip">Bạn sẽ thấy ít quảng cáo thuộc loại này</string>
+  <string name="ad_download_download">Tải về</string>
+  <string name="ad_download_install">Cài đặt</string>
+  <string name="ad_download_open">Mở</string>
+  <string name="ad_download_pause">Tạm ngừng</string>
+  <string name="ad_download_pending">Đang chờ xử lý</string>
+  <string name="ad_download_resume">Tiếp tục</string>
+  <string name="ad_downloading_tip">Mục này đang được tải xuống. Bạn có thể xem tiến trình trong bóng Thông báo.</string>
+  <string name="desktop_effects">Hiệu ứng màn hình chính</string>
+  <string name="hide_pull_down_message">Giấu nữ trang?</string>
+  <string name="server_internal_error">Xảy ra lỗi máy chủ. Đợi một hoặc hai phút và thử lại.</string>
+  <string name="theme_component_title_homepage">Trang chủ</string>
+  <string name="title_my_miwallpaper_desktop_effects">Hiệu ứng màn hình chính</string>
+  <string name="vip_level_dialog_positive">tôi biết</string>
+  <string name="vip_level_dialog_title">mẹo</string>
+</resources>

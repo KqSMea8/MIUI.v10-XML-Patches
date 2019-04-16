@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="close_dialog">OK</string>
+  <string name="ok">OK</string>
+  <string name="radio_off_error">Bật radio trước khi xem các cài đặt này.</string>
+</resources>

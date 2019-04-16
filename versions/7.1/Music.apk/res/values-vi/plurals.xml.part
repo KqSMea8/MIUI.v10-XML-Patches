@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="check_in_day_label">
+    <item quantity="other">%1$d ngày</item>
+    <item quantity="one">%1$d ngày</item>
+  </plurals>
+  <plurals name="comment_input_length_invalid">
+    <item quantity="other">Bạn có thể nhập tối đa %1$d nhân vật.</item>
+    <item quantity="one">Bạn có thể nhập tối đa %1$d tính cách.</item>
+  </plurals>
+  <plurals name="Ndownload_fee_alert_message">
+    <item quantity="other">Theo yêu cầu của chủ sở hữu bản quyền, %d bài hát đã chọn không thể tải xuống miễn phí. Những bài hát đã được thêm vào để tải về.</item>
+    <item quantity="one">Theo yêu cầu của chủ sở hữu bản quyền, %d bài hát đã chọn không thể tải xuống miễn phí. Bài hát này đã được thêm vào để tải về.</item>
+  </plurals>
+  <plurals name="Nnowplaying_songs">
+    <item quantity="other">(%d bài hát)</item>
+    <item quantity="one">(%d bài hát)</item>
+  </plurals>
+  <plurals name="notification_download_success_more">
+    <item quantity="other">%1$d bài hát</item>
+    <item quantity="one">%1$d bài hát</item>
+  </plurals>
+  <plurals name="Nsleep_quit_warning">
+    <item quantity="other">%d còn ít phút</item>
+    <item quantity="one">%d phút còn lại</item>
+  </plurals>
+  <plurals name="swipe_to_load_head_complete_success">
+    <item quantity="other">Đây là %1$d cập nhật cho bạn:</item>
+    <item quantity="one">Đây là %1$d cập nhật cho bạn:</item>
+  </plurals>
+</resources>

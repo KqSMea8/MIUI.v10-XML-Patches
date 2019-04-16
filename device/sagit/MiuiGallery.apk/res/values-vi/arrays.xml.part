@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="menu_copy_or_move">
+    <item>Di chuyển</item>
+    <item>Sao chép</item>
+    <item>@string/cancel</item>
+  </string-array>
+  <string-array name="search_voice_assistant_suggestion">
+    <item>giúp tôi tìm ảnh của chứng minh thư</item>
+    <item>tôi muốn xem ảnh chụp ở tam á.</item>
+    <item>tìm hình ảnh với văn bản kê</item>
+    <item>tìm kiếm hình ảnh của lễ hội mùa xuân năm ngoái</item>
+    <item>giúp tôi tìm kiếm bức ảnh của tôi với mẹ tôi vào tháng trước tại bãi biển.</item>
+  </string-array>
+</resources>

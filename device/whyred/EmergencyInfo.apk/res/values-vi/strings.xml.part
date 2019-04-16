@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="bluetooth_enable_inband_ringing">Cho phép đổ chuông trong băng</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Cho phép phát nhạc chuông trên điện thoại trên tai nghe Bluetooth</string>
+  <string name="content_description_menu_button">Thực đơn</string>
+  <string name="debug_hw_renderer">Đặt Trình kết xuất GPU</string>
+  <string name="power_remaining_duration_only_short_enhanced">^1 còn lại dựa trên cách sử dụng của bạn</string>
+  <string name="telephony_monitor_switch">Giám sát điện thoại</string>
+  <string name="telephony_monitor_switch_summary">Giám sát điện thoại sẽ thu thập nhật ký khi phát hiện sự cố với chức năng điện thoại/modem và thông báo nhắc nhở người dùng để báo lỗi</string>
+  <string name="wifi_auth_password_wrong">Mật khẩu có thể không chính xác</string>
+</resources>

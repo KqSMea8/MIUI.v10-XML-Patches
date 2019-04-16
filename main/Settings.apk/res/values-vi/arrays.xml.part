@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="launcher_gesture_entries">
+        <item>Tắt màn hình</item>
+        <item>Menu nguồn</item>
+        <item>Ứng dụng gần đây</item>
+        <item>Điện thoại</item>
+        <item>Chế độ âm thanh: Âm thanh/Rung</item>
+        <item>Bảng thông báo</item>
+        <item>Bật/Tắt Wi-Fi</item>
+        <item>Bật/Tắt Bluetooth</item>
+        <item>Bật/Tắt Dữ liệu di động</item>
+        <item>Dọn dẹp bộ nhớ</item>
+        <item>Chạy ứng dụng</item>
+        <item>Vô hiệu hóa</item>
+    </string-array>
+    <string-array name="ios_toggle_entries">
+        <item>Mặc định</item>
+        <item>IOS</item>
+		<item>MiuiPro</item>
+		<item>AOSP</item>
+    </string-array>
+	<string-array name="screen_mode_entries"> 
+		<item>Mặc định</item> 
+		<item>Toàn màn hình</item> 
+		<item>Ẩn thanh trạng thái</item> 
+		<item>Ẩn thanh điều hướng</item> 
+	</string-array>
+	<string-array name="show_search_entries">
+        <item>Hiện</item>
+        <item>Chỉ hiện ở Liên hệ</item>
+        <item>Chỉ hiện ở Điện thoại</item>
+        <item>Ẩn</item>
+    </string-array>
+	<string-array name="call_windows_entries">
+        <item>Toàn màn hình</item>
+        <item>Pop-up</item>
+    </string-array>
+	<string-array name="position_battery_entries">
+        <item>Bên phải</item>
+        <item>Ở trong</item>
+        <item>Bên trái</item>
+    </string-array>
+</resources>

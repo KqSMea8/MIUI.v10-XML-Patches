@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="aqi_level_simple_desc">
+    <item>优</item>
+    <item>良</item>
+    <item>nhẹ</item>
+    <item>trung bình</item>
+    <item>nặng</item>
+    <item>nghiêm túc</item>
+  </string-array>
+  <string-array name="entryvalues_settings_debug">
+    <item>无</item>
+    <item>xuất và gửi nhật ký</item>
+    <item>tạo nhật ký để quản lý tập tin</item>
+  </string-array>
+  <string-array name="fortune_random_name">
+    <item>vương vĩ</item>
+    <item>lý đông</item>
+    <item>sun hui</item>
+    <item>li jun</item>
+    <item>chu yong</item>
+    <item>trịnh kiến</item>
+    <item>biển vàng</item>
+    <item>trịnh feifei</item>
+    <item>cheng jie</item>
+    <item>song xiaaoao</item>
+    <item>quách degang</item>
+  </string-array>
+</resources>

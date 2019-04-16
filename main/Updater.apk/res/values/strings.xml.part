@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miui_summary_now_version">Update from Xiaomi has been blocked</string>
+	<string name="updater_nonetwork">Update from Xiaomi has been blocked</string>
+    <string name="updater_nonetwork_clause">Update from Xiaomi has been blocked</string>
+	<string name="vote_error_nonetwork">Update from Xiaomi has been blocked</string>
+	<string name="check_network">Update from Xiaomi has been blocked</string>
+	<string name="set_network_title">Attention</string>
+	<string name="set_network_msg">I recommend that users should wipe fully before installing or using my ota to upgrade your device.</string>
+	<string name="repeat">Got it</string>
+	<string name="set_connect_error_title">Attention</string>
+	<string name="set_connect_error_msg">I recommend that users should wipe fully before installing or using my ota to upgrade your device.</string>
+</resources>

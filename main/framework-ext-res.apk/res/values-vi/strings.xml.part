@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="memory_clear_result">Đã xóa %1$sB | Trống %2$sB</string>
+</resources>

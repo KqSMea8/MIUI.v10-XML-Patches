@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="classical">Cổ điển</string>
+  <string name="combo_device">Hiệu ứng chỉ được hỗ trợ khi phát lại tai nghe.</string>
+  <string name="dance">Dance</string>
+  <string name="eq_custom">Để tùy chỉnh, chọn Tùy chỉnh</string>
+  <string name="flat">Bằng phẳng</string>
+  <string name="folk">Dân gian</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hiphop</string>
+  <string name="jazz">Nhạc Jazz</string>
+  <string name="largehall">Hội trường lớn</string>
+  <string name="largeroom">Căn phòng rộng</string>
+  <string name="mediumhall">Hội trường trung bình</string>
+  <string name="mediumroom">Phòng trung bình</string>
+  <string name="new_app_name">Hiệu quả Âm Thanh</string>
+  <string name="none">Không</string>
+  <string name="normal">Bình thường</string>
+  <string name="plate">Đĩa</string>
+  <string name="pop">Nhạc pop</string>
+  <string name="power_on_prompt">Nhấn nút nguồn ở phía trên bên phải.</string>
+  <string name="rock">Rock</string>
+  <string name="smallroom">Phòng nhỏ</string>
+  <string name="toggle_button_off">Tắt</string>
+  <string name="toggle_button_on">Bật</string>
+</resources>

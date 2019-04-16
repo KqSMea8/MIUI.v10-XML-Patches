@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="card_main_hbassistant_title">Magisk</string>
+    <string name="card_main_hbassistant_summary">"Copyright NXT"</string>
+	<string name="card_main_applock_title">K.ứng dụng</string>
+	<string name="app_manager_app_lock">K.ứng dụng</string>
+	<string name="card_main_private_space_title">K.gian thứ hai</string>
+</resources>

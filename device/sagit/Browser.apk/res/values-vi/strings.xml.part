@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">InfoStream</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_feedback_strings_delete">xóa</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_add_picture">thêm hình ảnh</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+  <string name="error_console_header_text_maximized">Bảng điều khiển JavaScript</string>
+  <string name="guide_motor_text">xe máy</string>
+  <string name="mw_abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="mw_abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="mw_search_menu_title">Tìm kiếm</string>
+  <string name="mw_status_bar_notification_info_overflow">999+</string>
+  <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+  <string name="mw_time_picker_dialog_minute_second_separator">:</string>
+  <string name="readmode_font_size_setting_button">A</string>
+  <string name="share_by_yidianzixun">[một ít thông tin]</string>
+  <string name="sign_in">Check in</string>
+  <string name="signed_in">Checked in</string>
+  <string name="speech_engine_not_install">Công cụ nói không được cài đặt</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="suggest_access_item_singer_albums">%d album</string>
+  <string name="suggest_access_item_video_mark">VIDEO</string>
+  <string name="suggest_access_item_yellow_mark">NHỮNG TRANG VÀNG</string>
+  <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
+  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+</resources>

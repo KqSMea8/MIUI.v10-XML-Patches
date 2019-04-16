@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="feedback_tag_list">
+    <item>Lỗi, 1</item>
+    <item>Gợi ý, 2</item>
+    <item>Các vấn đề khác, 0</item>
+  </string-array>
+  <string-array name="message_center_tab_list">
+    <item>Bình luận</item>
+    <item>Thích</item>
+    <item>Thông báo</item>
+  </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer name="config_cell_count_x_min">4</integer>
+    <integer name="config_cell_count_y_max">6</integer>
+    <integer name="config_cell_count_y_min">5</integer>
+    <integer name="config_cell_count_x_max">5</integer>
+	<integer name="config_note_720p_cell_count_x_max">5</integer>
+    <integer name="config_note_720p_cell_count_y_max">7</integer>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<bool name="config_ui_enableFadingMarquee">true</bool>
+	<bool name="config_wifi_enable_wifi_firmware_debugging">true</bool>
+	<bool name="config_enableGeofenceOverlay">true</bool>
+	<bool name="config_safe_media_volume_enabled">false</bool>
+</resources>

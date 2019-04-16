@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="account_sdn">SDN</string>
+  <string name="account_sdn2">SDN %d</string>
+  <string name="contacts_default_notification_channel">Thông báo</string>
+  <string name="dialer_title_divider">" ｜ "</string>
+  <string name="phone_info_divider">" ｜ "</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="sv">RAT</string>
+  <string name="yellowpage_mi_family">nhà kê</string>
+</resources>

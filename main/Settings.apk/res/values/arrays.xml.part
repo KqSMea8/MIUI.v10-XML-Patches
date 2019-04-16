@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="region_support_face">
+        <item>VN</item>
+        <item>IN</item>
+        <item>CN</item>
+        <item>HK</item>
+        <item>TW</item>
+    </string-array>
+    <string-array name="device_support_face">
+        <item>cancro</item>
+        <item>markw</item>
+        <item>kenzo</item>
+		<item>virgo</item>
+        <item>mido</item>
+        <item>chiron</item>
+        <item>gemini</item>
+        <item>vince</item>
+		<item>sagit</item>
+		<item>tulip</item>
+		<item>whyred</item>
+		<item>rosy</item>
+		<item>oxygen</item>
+    </string-array>
+    <string-array name="device_global_support_face">
+        <item>cancro</item>
+        <item>markw</item>
+        <item>kenzo</item>
+		<item>virgo</item>
+        <item>mido</item>
+        <item>chiron</item>
+        <item>gemini</item>
+        <item>vince</item>
+		<item>sagit</item>
+		<item>tulip</item>
+		<item>whyred</item>
+		<item>rosy</item>
+		<item>oxygen</item>
+    </string-array>
+    <string-array name="region_global_support_face_facejiajia">
+		<item>VN</item>
+		<item>CN</item>
+		<item>HK</item>
+        <item>IN</item>
+        <item>ID</item>
+        <item>RU</item>
+		<item>TW</item>      
+    </string-array>
+	    <string-array name="region_global_support_face_sensetime">
+        <item>VN</item>
+		<item>CN</item>
+		<item>HK</item>
+        <item>IN</item>
+        <item>ID</item>
+        <item>RU</item>
+		<item>TW</item>
+    </string-array>
+	<string-array name="device_global_support_face_facejiajia">
+        <item>cancro</item>
+        <item>markw</item>
+        <item>kenzo</item>
+		<item>virgo</item>
+        <item>mido</item>
+        <item>chiron</item>
+        <item>gemini</item>
+        <item>vince</item>
+		<item>sagit</item>
+		<item>tulip</item>
+		<item>whyred</item>
+		<item>rosy</item>
+		<item>oxygen</item>
+    </string-array>
+	<string-array name="device_global_support_face_sensetime">
+        <item>cancro</item>
+        <item>markw</item>
+        <item>kenzo</item>
+		<item>virgo</item>
+        <item>mido</item>
+        <item>chiron</item>
+        <item>gemini</item>
+        <item>vince</item>
+		<item>sagit</item>
+		<item>tulip</item>
+		<item>whyred</item>
+		<item>rosy</item>
+		<item>oxygen</item>
+    </string-array>
+	<string-array name="device_use_face_service">
+        <item>cancro</item>
+        <item>markw</item>
+        <item>kenzo</item>
+		<item>virgo</item>
+        <item>mido</item>
+        <item>chiron</item>
+        <item>gemini</item>
+        <item>vince</item>
+		<item>sagit</item>
+		<item>tulip</item>
+		<item>whyred</item>
+		<item>rosy</item>
+		<item>oxygen</item>
+    </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>16GB</item>
+        <item>Quad core - Max: 2.5GHz</item>
+    </string-array>
+</resources>

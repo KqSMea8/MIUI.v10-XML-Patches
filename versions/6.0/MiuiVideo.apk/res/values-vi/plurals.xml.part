@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="comment_count">
+    <item quantity="other">%d bình luận</item>
+    <item quantity="one">%d bình luận</item>
+  </plurals>
+  <plurals name="comment_sub_count">
+    <item quantity="other">%d trả lời</item>
+    <item quantity="one">%d đáp lại</item>
+  </plurals>
+  <plurals name="comment_view_all_comment">
+    <item quantity="other">Xem tất cả %d bình luận</item>
+    <item quantity="one">Lượt xem %d bình luận</item>
+  </plurals>
+  <plurals name="downloading_task_num">
+    <item quantity="other">%d các tập tin</item>
+    <item quantity="one">%d tập tin</item>
+  </plurals>
+  <plurals name="favor_short_selected_counts">
+    <item quantity="other">Đã chọn %1$s mặt hàng</item>
+    <item quantity="one">Đã chọn %1$s mục</item>
+  </plurals>
+  <plurals name="finish_item_all_counts">
+    <item quantity="other">%1$s video</item>
+    <item quantity="one">%1$s video</item>
+  </plurals>
+  <plurals name="notification_sub_title">
+    <item quantity="other">Đã tải xuống %d tập tin thành công</item>
+    <item quantity="one">Đã tải xuống %d tập tin thành công</item>
+  </plurals>
+  <plurals name="offline_num">
+    <item quantity="other">%d các tập tin</item>
+    <item quantity="one">%d tập tin</item>
+  </plurals>
+  <plurals name="offline_num_title">
+    <item quantity="other">(%d tập phim)</item>
+    <item quantity="one">(%d tập phim)</item>
+  </plurals>
+  <plurals name="updated_already">
+    <item quantity="other">Đã cập nhật %d mặt hàng</item>
+    <item quantity="one">Đã cập nhật %d mục</item>
+  </plurals>
+  <plurals name="v_cache_videos">
+    <item quantity="other">%d video được lưu trữ</item>
+    <item quantity="one">%d video được lưu trữ</item>
+  </plurals>
+  <plurals name="v_coin_show">
+    <item quantity="other">%d đồng xu</item>
+    <item quantity="one">%d đồng tiền</item>
+  </plurals>
+  <plurals name="video_pre_play_tip">
+    <item quantity="other">%1$d-minute xem trước có sẵn. Để xem video đầy đủ,&lt;Data&gt;&lt;font color=#ffa201&gt;mua ngay&lt;/font&gt;&lt;/Data&gt;.</item>
+    <item quantity="one">%1$d-minute xem trước có sẵn. Để xem video đầy đủ,&lt;Data&gt;&lt;font color=#ffa201&gt;mua ngay&lt;/font&gt;&lt;/Data&gt;.</item>
+  </plurals>
+</resources>

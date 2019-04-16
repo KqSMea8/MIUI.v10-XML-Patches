@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="no_weather_description">Get weather info</string>
+	<string name="status_bar_clock_date_format">d MMMM yyyy</string>
+    <string name="status_bar_clock_date_format_12">d MMMM yyyy</string>
+	<string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, d MMMM</string>
+    <string name="status_bar_date_format">"E
+d MMMM"</string>
+    <string name="status_bar_date_format_12">"E
+d MMMM"</string>
+</resources>

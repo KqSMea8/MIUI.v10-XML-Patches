@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="battery_indicator_style_entries">
+        <item>Đồ họa</item>
+        <item>Phần trăm</item>
+        <item>Thanh trên cùng</item>
+    </string-array>
+	<string-array name="date_of_app_all">
+		<item>Hôm nay (dữ liệu)</item>
+		<item>Tháng này (dữ liệu)</item>
+		<item>Tháng trước (dữ liệu)</item>
+		<item>Hôm nay WLAN</item>
+		<item>WLAN tháng này</item>
+		<item>WLAN tháng trước</item>
+	</string-array>
+	<string-array name="date_of_traffic">
+		<item>Hôm nay</item>
+		<item>Tháng này</item>
+		<item>Tháng trước</item>
+	</string-array>
+	<string-array name="date_of_traffic_prefix">
+		<item>Hôm nay:</item>
+		<item>Tháng này:</item>
+		<item>Tháng trước:</item>
+	</string-array>
+	<string-array name="fold_entries">
+		<item>Đề xuất</item>
+		<item>Quan trọng</item>
+		<item>Không quan trọng</item>
+	</string-array>
+	<string-array name="fold_summaries">
+		<item>MIUI sẽ quyết định thông báo nào sẽ xuất hiện trực tiếp</item>
+		<item>Thông báo sẽ xuất hiện trong phần Thông báo</item>
+		<item>Thông báo sẽ xuất hiện trong một thư mục riêng</item>
+	</string-array>
+	<string-array name="miui_entryvalues_font_size">
+		<item>nhỏ</item>
+		<item>bình thường</item>
+		<item>trung bình</item>
+		<item>lớn</item>
+		<item>khổng lồ</item>
+		<item>chúa trời</item>
+	</string-array>
+	<string-array name="notification_shade_shortcut_entries">
+		<item>Tìm kiếm</item>
+		<item>Cài đặt</item>
+	</string-array>
+	<string-array name="notification_style_entries">
+		<item>MIUI</item>
+		<item>Android</item>
+	</string-array>
+	<string-array name="traffic_type">
+		<item>Sử dụng mạng di động</item>
+		<item>Sử dụng mạng WLAN</item>
+	</string-array>
+</resources>

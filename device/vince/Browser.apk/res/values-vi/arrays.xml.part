@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="pref_fling_gesture_values">
+    <item>ngược lại</item>
+    <item>chuyển thẻ</item>
+    <item>không</item>
+  </string-array>
+  <string-array name="suggestion_weather_condition_message">
+    <item>Quang</item>
+    <item>Ít mây</item>
+    <item>Nhiều mây</item>
+    <item>Vòi hoa sen</item>
+    <item>Dông</item>
+    <item>Kêu</item>
+    <item>Mưa đá</item>
+    <item>Mưa nhỏ</item>
+    <item>Mưa vừa</item>
+    <item>Mưa nặng hạt</item>
+    <item>Mưa bão</item>
+    <item>Xối xả mưa</item>
+    <item>Mưa bão</item>
+    <item>Tắm tuyết</item>
+    <item>Tuyết nhẹ</item>
+    <item>Tuyết vừa phải</item>
+    <item>Tuyết rơi nhiều</item>
+    <item>Bão tuyết</item>
+    <item>Sương mù</item>
+    <item>Mưa lạnh</item>
+    <item>Bão cát</item>
+    <item>Mưa nhẹ đến trung bình</item>
+    <item>Mưa vừa đến mưa to</item>
+    <item>Mưa to đến mưa xối xả</item>
+    <item>Mưa xối xả</item>
+    <item>Cơn mưa đến cực đoan</item>
+    <item>Tuyết rơi nhẹ đến trung bình</item>
+    <item>Tuyết vừa đến nặng</item>
+    <item>Tuyết rơi dày</item>
+    <item>Bụi nổi</item>
+    <item>Nuôi cát</item>
+    <item>Bão cát</item>
+    <item>Sương mù dày đặc</item>
+    <item>Sương mù mạnh</item>
+    <item>Sương mù</item>
+    <item>Sương mù vừa phải</item>
+    <item>Sương mù nặng nề</item>
+    <item>Sương mù nặng</item>
+    <item>Sương mù dày đặc</item>
+    <item>Sương mù dày đặc</item>
+    <item>Không ai</item>
+    <item>Mưa</item>
+    <item>Tuyết</item>
+  </string-array>
+</resources>

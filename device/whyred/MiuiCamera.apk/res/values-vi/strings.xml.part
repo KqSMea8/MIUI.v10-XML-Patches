@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="accessibility_camera_module_picker">Bộ chọn mô-đun máy ảnh</string>
+  <string name="accessibility_video_module_picker">Bộ chọn mô-đun Video</string>
+  <string name="color_effect_live_contrast">Xpro</string>
+  <string name="pref_camera_bokeh_title">Chân dung</string>
+  <string name="pref_camera_tilt_shift_default">vòng tròn</string>
+  <string name="pref_camera_volumekey_function_entryvalue_timer">hẹn giờ</string>
+  <string name="pref_camera_zoom_mode_entryvalue_tele">điện thoại</string>
+  <string name="pref_camera_zoom_mode_entryvalue_wide">rộng</string>
+  <string name="pref_video_volumekey_function_default">màn trập</string>
+</resources>

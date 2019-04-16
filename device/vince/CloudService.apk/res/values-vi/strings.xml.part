@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="member_menu_vipname_mega">Lớn</string>
+  <string name="member_menu_vipname_premium">Cao cấp</string>
+  <string name="member_menu_vipname_ultra">Siêu</string>
+  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+  <string name="micloud_footer_international_url">mi.com/micloud</string>
+  <string name="micloud_footer_normal_url">i.mi.com</string>
+  <string name="micloud_storage_unit_gb">%sGB</string>
+  <string name="micloud_storage_unit_mb">%sMB</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="user_agreement_p5">\n\n</string>
+</resources>

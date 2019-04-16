@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miui_summary_now_version">Cập nhật từ Xiaomi đã bị chặn</string>
+	<string name="updater_nonetwork">Cập nhật từ Xiaomi đã bị chặn</string>
+    <string name="updater_nonetwork_clause">Cập nhật từ Xiaomi đã bị chặn</string>
+	<string name="vote_error_nonetwork">Cập nhật từ Xiaomi đã bị chặn</string>
+	<string name="check_network">Cập nhật từ Xiaomi đã bị chặn</string>
+	<string name="set_network_title">Chú ý</string>
+	<string name="set_network_msg">Khuyến cáo người dùng nên wipe đầy đủ trước khi cài đặt hoặc sử dụng những bản ota của tôi để nâng cấp thiết bị.</string>
+	<string name="repeat">Đã hiểu</string>
+	<string name="set_connect_error_title">Chú ý</string>
+	<string name="set_connect_error_msg">Khuyến cáo người dùng nên wipe đầy đủ trước khi cài đặt hoặc sử dụng những bản ota của tôi để nâng cấp thiết bị.</string>
+</resources>

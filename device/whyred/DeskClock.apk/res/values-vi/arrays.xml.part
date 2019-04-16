@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries_names_miui">
+        <item>Bờ Biển Ngà</item>
+        <item>Ghana</item>
+        <item>Ethiopia</item>
+        <item>Algeria</item>
+        <item>Malawi</item>
+        <item>Cộng hòa Congo</item>
+        <item>Ai Cập</item>
+        <item>Ma Rốc</item>
+        <item>Guinea</item>
+        <item>Senegal</item>
+        <item>Tanzania</item>
+        <item>Djibouti</item>
+        <item>Sierra Leone</item>
+        <item>Botswana</item>
+        <item>Zimbabwe</item>
+        <item>Nam Phi</item>
+        <item>Uganda</item>
+        <item>Rwanda</item>
+        <item>Cộng hòa dân chủ Congo</item>
+        <item>Nigeria</item>
+        <item>Lesotho</item>
+        <item>Somalia</item>
+        <item>Kenya</item>
+        <item>Sao Tome và Principe</item>
+        <item>Mali</item>
+        <item>Libya</item>
+        <item>Tunisia</item>
+        <item>Hoa Kỳ</item>
+        <item>Argentina</item>
+        <item>Paraguay</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Colombia</item>
+        <item>Argentina</item>
+        <item>Mexico</item>
+        <item>Venezuela</item>
+        <item>Quần đảo Cayman</item>
+        <item>Hoa Kỳ</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Canada</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Cộng hòa Dominican</item>
+        <item>Canada</item>
+        <item>El Salvador</item>
+        <item>Brazil</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Canada</item>
+        <item>Cuba</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Jamaica</item>
+        <item>Bolivia</item>
+        <item>Peru</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Nicaragua</item>
+        <item>Martinique</item>
+        <item>Hoa Kỳ</item>
+        <item>Mê-xi-cô</item>
+        <item>Hoa Kỳ</item>
+        <item>Uruguay</item>
+        <item>Canada</item>
+        <item>Bahamas</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Panama</item>
+        <item>Hoa Kỳ</item>
+        <item>Trinidad và Tobago</item>
+        <item>Haiti</item>
+        <item>Bra-xin</item>
+        <item>Canada</item>
+        <item>Saint Kitts và Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Quần đảo Virgin thuộc Hoa Kỳ</item>
+        <item>Mê-xi-cô</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Svalbard và Jan Mayen</item>
+        <item>Kazakhstan</item>
+        <item>Jordan</item>
+        <item>Nga</item>
+        <item>Kazakhstan</item>
+        <item>Iraq</item>
+        <item>Bahrain</item>
+        <item>Azerbaijan</item>
+        <item>Thái Lan</item>
+        <item>Lebanon</item>
+        <item>Ấn Độ</item>
+        <item>Syria</item>
+        <item>Bangladesh</item>
+        <item>Tiểu Vương Quốc Ả Rập Thống Nhất</item>
+        <item>Palestine</item>
+        <item>Palestine</item>
+        <item>Việt Nam</item>
+        <item>Trung Quốc</item>
+        <item>Indonesia</item>
+        <item></item>
+        <item>Afghanistan</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Malaysia</item>
+        <item>Kuwait</item>
+        <item>Trung Quốc</item>
+        <item>Philippines</item>
+        <item>Oman</item>
+        <item>Campuchia</item>
+        <item>Triều tiên</item>
+        <item>Qatar</item>
+        <item>Myanmar</item>
+        <item>Ả Rập Saudi</item>
+        <item>Hàn Quốc</item>
+        <item>Trung Quốc</item>
+        <item>Singapore</item>
+        <item>Trung Quốc</item>
+        <item>Iran</item>
+        <item>Israel</item>
+        <item>Nhật Bản</item>
+        <item>Mông Cổ</item>
+        <item>Bermuda</item>
+        <item>Tây Ban Nha</item>
+        <item>Cape Verde</item>
+        <item>Iceland</item>
+        <item>Quần đảo Falkland</item>
+        <item>Úc</item>
+        <item>Úc</item>
+        <item>Úc</item>
+        <item>Úc</item>
+        <item>Úc</item>
+        <item>Úc</item>
+        <item>Úc</item>
+        <item>Úc</item>
+        <item>Úc</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Chile</item>
+        <item>Hà Lan</item>
+        <item>Andorra</item>
+        <item>Hy Lạp</item>
+        <item>Vương quốc Anh</item>
+        <item>Serbia</item>
+        <item>Đức</item>
+        <item>Slovakia</item>
+        <item>Bỉ</item>
+        <item>Romania</item>
+        <item>Hungary</item>
+        <item>Moldova</item>
+        <item>Đan Mạch</item>
+        <item>Ai-len</item>
+        <item>Gibraltar</item>
+        <item>Phần Lan</item>
+        <item>Isle of Man</item>
+        <item>Thổ Nhĩ Kỳ</item>
+        <item>Bồ Đào Nha</item>
+        <item>Vương quốc Anh</item>
+        <item>Luxembourg</item>
+        <item>Tây Ban Nha</item>
+        <item>Malta</item>
+        <item>Belarus</item>
+        <item>Monaco</item>
+        <item>Nga</item>
+        <item>Na Uy</item>
+        <item>Pháp</item>
+        <item>Cộng hòa Séc</item>
+        <item>Latvia</item>
+        <item>Ý</item>
+        <item></item>
+        <item>Bosnia và Herzegovina</item>
+        <item></item>
+        <item>Macedonia</item>
+        <item>Bulgaria</item>
+        <item>Thụy Điển</item>
+        <item>Estonia</item>
+        <item></item>
+        <item>Áo</item>
+        <item>Lithuania</item>
+        <item>Ba Lan</item>
+        <item>Croatia</item>
+        <item>Thụy Sĩ</item>
+        <item>Madagascar</item>
+        <item>Maldives</item>
+        <item>Mauritius</item>
+        <item>Niu Di-lân</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Hoa Kỳ</item>
+        <item>New Caledonia</item>
+        <item>Polynésie thuộc Pháp</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Canada</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Canada</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>El Salvador</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Qatar</item>
+        <item>Trung Quốc</item>
+        <item>Ấn Độ</item>
+        <item>Ấn Độ</item>
+        <item>Ấn Độ</item>
+        <item>Nhật Bản</item>
+        <item>Pakistan</item>
+        <item>Ấn Độ</item>
+        <item>Tây Ban Nha</item>
+        <item>Đức</item>
+        <item>Ý</item>
+        <item>Đức</item>
+        <item>Việt Nam</item>
+        <item>Thổ Nhĩ Kỳ</item>
+        <item>Ấn Độ</item>
+        <item>Bra-xin</item>
+        <item>Nam Phi</item>
+        <item>Pakistan</item>
+        <item>Bra-xin</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Vương quốc Anh</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Trung Quốc</item>
+        <item>Ấn Độ</item>
+        <item>Hoa Kỳ</item>
+        <item>Bra-xin</item>
+        <item>Chile</item>
+        <item>Liberia</item>
+        <item>Sri Lanka</item>
+        <item>Mê-xi-cô</item>
+        <item>Ấn Độ</item>
+        <item>Vương quốc Anh</item>
+        <item>Ukraine</item>
+        <item>Nga</item>
+        <item>Ba Lan</item>
+        <item>Ba Lan</item>
+        <item>Đức</item>
+        <item>Phần Lan</item>
+        <item>Israel</item>
+        <item>Puerto Rico</item>
+        <item>Honduras</item>
+        <item>Suriname</item>
+        <item>Ecuador</item>
+    </string-array>
+</resources>

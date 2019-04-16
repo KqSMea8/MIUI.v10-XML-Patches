@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="express_history_dialog_delete_message">
+    <item quantity="other">Xóa bỏ %s mục từ thể hiện?</item>
+    <item quantity="one">Xóa bỏ %s mục từ thể hiện?</item>
+  </plurals>
+  <plurals name="express_history_menu_select_num">
+    <item quantity="other">Đã chọn %s mặt hàng</item>
+    <item quantity="one">Đã chọn %s mục</item>
+  </plurals>
+  <plurals name="miot_device_camera_size">
+    <item quantity="other">%d máy ảnh thông minh</item>
+    <item quantity="one">%d máy ảnh thông minh</item>
+  </plurals>
+  <plurals name="payment_record_dialog_delete_message">
+    <item quantity="other">Xóa bỏ %s mục từ thanh toán?</item>
+    <item quantity="one">Xóa bỏ %s mục từ thanh toán?</item>
+  </plurals>
+  <plurals name="payment_record_menu_select_num">
+    <item quantity="other">Đã chọn %s mặt hàng</item>
+    <item quantity="one">Đã chọn %s mục</item>
+  </plurals>
+  <plurals name="shopping_delete_num">
+    <item quantity="other">Xóa bỏ %s các mục đã chọn?</item>
+    <item quantity="one">Xóa bỏ %s chọn mục?</item>
+  </plurals>
+</resources>

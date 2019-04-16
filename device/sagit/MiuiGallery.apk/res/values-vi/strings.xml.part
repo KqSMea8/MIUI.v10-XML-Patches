@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="channel_default_name">Các tính năng mới</string>
+  <string name="channel_low_name">Các tin nhắn mới</string>
+  <string name="channel_min_name">Thông báo ứng dụng</string>
+  <string name="filter_bi_dusk">Hoàng hôn</string>
+  <string name="filter_bi_lilt">Nghiêng</string>
+  <string name="filter_bi_sepia">Nâu đỏ</string>
+  <string name="filter_bi_tea">Trà</string>
+  <string name="motion_photo_play">Phát</string>
+  <string name="movie_content_describe_add">Thêm ảnh</string>
+  <string name="movie_content_describe_delete">Xóa ảnh</string>
+  <string name="movie_content_describe_pause">Tạm ngừng</string>
+  <string name="movie_content_describe_play">Phát</string>
+  <string name="movie_item_name">Kẹp</string>
+  <string name="percent_sign">%</string>
+  <string name="search_transition_element_icon">tìm kiếm</string>
+  <string name="search_transition_element_input">tìm kiếm thông tin</string>
+  <string name="search_transition_element_voice">tìm kiếm</string>
+</resources>
